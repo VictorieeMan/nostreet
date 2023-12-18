@@ -24,3 +24,7 @@ yarn add --dev ts-node
 yarn add v1.22.21
 
 First time setup, from start to running the Expo GO test project took: 2:22:22, including debugging and troubleshooting to also setup the system correctly with yarn, NodeJS, Expo-Go install and all of correct version for ignote to work.
+
+Times: H:M or just M
+- First time setting up from scratch 2:22
+- Playing around understanding some basics, 33
