@@ -33,7 +33,7 @@ const $customIcon: ImageStyle = {
 export const DemoIcon: Demo = {
   name: "Icon",
   description:
-    "A component to render a registered icon. It is wrapped in a <TouchableOpacity /> if `onPress` is provided, otherwise a <View />.",
+    "Hello! Bellow is the original Demo!\nA component to render a registered icon. It is wrapped in a <TouchableOpacity /> if `onPress` is provided, otherwise a <View />.",
   data: [
     <DemoUseCase
       name="Icons"
