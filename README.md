@@ -1,6 +1,14 @@
 # nostreet
 A reddit styled forum with nostr login and Zaps for tipping.
 
+## Dependencies / used while developing
+- NodeJS
+- Yarn
+- Expo-Go
+- Ignite
+- React Native
+- https://github.com/nostr-dev-kit/ndk
+
 app.txs is the app entry point, found in: nostreet-app/app/app.tsx
 
 https://www.youtube.com/watch?v=KOSvDlFyg20
